@@ -11,3 +11,4 @@ name = "nailit"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
+regex = "1.13.1"
