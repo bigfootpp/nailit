@@ -3,6 +3,7 @@ name = "nailit"
 version = "0.0.1"
 edition = "2024"
 license = "MIT"
+description = "TODO"
 repository = "https://github.com/bigfootpp/nailit"
 
 [lib]
